@@ -185,6 +185,7 @@
   <phrase title="admin_navigation_testFacebook" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[اختبار دمج الفيس بوك]]></phrase>
   <phrase title="admin_navigation_testImageProxy" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[إختبار بروكسي الصور]]></phrase>
   <phrase title="admin_navigation_testPermissions" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إختبار التصاريح]]></phrase>
+  <phrase title="admin_navigation_testTwitter" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[إختبار دمج تويتر]]></phrase>
   <phrase title="admin_navigation_threadPrefixes" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[بادئات الموضوع]]></phrase>
   <phrase title="admin_navigation_threadsPosts" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[مواضيع و مشاركات]]></phrase>
   <phrase title="admin_navigation_tools" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[الأدوات
@@ -368,7 +369,7 @@
   <phrase title="available_upgrades" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[التحديثات المتوفرة]]></phrase>
   <phrase title="avatar" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[الصورة الرمزية]]></phrase>
   <phrase title="avatar_date" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[تاريخ الصورة]]></phrase>
-  <phrase title="avatar_editor" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تعديل الصورة الرمزية]]></phrase>
+  <phrase title="avatar_editor" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[محرر الصورة الرمزية]]></phrase>
   <phrase title="avatars_directory_not_found" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لا يمكن العثور على مجلد الصور الرمزية]]></phrase>
   <phrase title="awaiting_approval" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[بإنتظار الموافقة]]></phrase>
   <phrase title="awaiting_email_confirmation" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[في انتظار التأكيد عبر البريد الالكتروني]]></phrase>
@@ -1271,6 +1272,7 @@
 Your callback should return an HTML string, and have a signature as follows:<br />
 <br />
 <code>public static function myCallback($mediaKey, array $site)</code>]]></phrase>
+  <phrase title="embedded_media" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[الميديا المضمنة]]></phrase>
   <phrase title="embedded_youtube_player_would_appear_here" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[مشغل فيديو اليوتيوب يظهر هنا]]></phrase>
   <phrase title="empty_the_import_log_without_archiving" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[إفراغ سجل الاستيراد بدون أرشفة]]></phrase>
   <phrase title="empty_values_always_allowed" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[السماح دائما بقيم فارغة.]]></phrase>
@@ -1546,7 +1548,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="if_enabled_staff_members_automatically_have_banner_added" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[عند التفعيل فإنه سيظهر لقب إداري للمراقبين و الاداريين أسفل لقب العضو بشكل تلقائي و ذو أولوية عليا في العرض.]]></phrase>
   <phrase title="if_enabled_user_title_hidden_when_banner_shown" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[عند التمكين سيتم عرض البنر مع لقب العضو اﻹفتراضي، عند التعطيل سيتم إخفاء لفب العضو عند تفعيل بنر المجموعة.
 اﻷلقاب المخصصة لن يتم إخفاؤها على اﻹطلاق.]]></phrase>
-  <phrase title="if_entered_project_honey_pot_http_blacklist_checked" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If entered, the <a href="https://www.projecthoneypot.org/index.php" target="_blank">Project Honey Pot</a> HTTP blacklist will be checked as well.]]></phrase>
+  <phrase title="if_entered_project_honey_pot_http_blacklist_checked" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[عند الإدخال، فسيتم فحص القائمة السوداء لـ <a href="https://www.projecthoneypot.org/index.php" target="_blank">مشروع Honey Pot</a> .]]></phrase>
   <phrase title="if_entered_url_to_forum_not_contain_id_change_breaks_urls" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[عند إدخال عنوان، الرابط لهذا المنتدى لن يحتوي على معرف. إستخدم a-z، 0-9، _، و - أحرف فقط. لاحظ أن تغيير هذه القيمة سوف يسبب بمجرد تحديدها، عناوين URLs لا بد من كسرها.]]></phrase>
   <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إذا نسيت كلمة المرور، تستطيع إستعمال هذه الإستمارة لتعيين كلمة مرور جديدة. سيصلك بريد إلكتروني به التعليمات.]]></phrase>
   <phrase title="if_provide_example_bb_code_appear_on_bb_code_help_page" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[إذا قدمت مثال، هذا الـ BB code سوف يطبق و يعرض في صفحة أكواد BB الموجودة في صفحة التعليمات.]]></phrase>
@@ -2324,7 +2326,6 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="one_minute_ago" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[منذ دقيقة واحدة]]></phrase>
   <phrase title="online_now_x_members_y_guests_z_robots_a" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[المجموع: {total} (الأعضاء: {members}، الزوار: {guests}، العناكب: {robots})]]></phrase>
   <phrase title="online_statistics" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[إحصائيات المتصلين]]></phrase>
-  <phrase title="only_array_data_types_may_be_represented_as_array_values" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Only array data types may be represented as array values.]]></phrase>
   <phrase title="only_display_within_selected_nodes_no_children" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[عرض بالمنتديات المحددة فقط (لا يتضمن المنتديات الفرعية)]]></phrase>
   <phrase title="only_edits_within_last_x_days_will_be_reverted" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[فقط عمليات التعديل التي تمت خلال {count} أيام سوف يتم استعادتها.]]></phrase>
   <phrase title="only_generate_list_of_email_addresses" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[توليد و إنشاء قائمة بالعناوين البريدية فقط]]></phrase>
@@ -2417,7 +2418,6 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="option_defaultStyleId" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[الستايل الإفتراضي]]></phrase>
   <phrase title="option_defaultStyleId_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="option_delayPostResponses" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Slow POST Responses]]></phrase>
-  <phrase title="option_delayPostResponses_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[When developing on a local server, the speed of responses can be too fast for debugging. Adding a value here will delay POST responses by the number of seconds you specify.]]></phrase>
   <phrase title="option_disallowedCustomTitles" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[القاب الأعضاء الممنوعة]]></phrase>
   <phrase title="option_disallowedCustomTitles_explain" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[أدخل الكلمات أو العبارات الغير مسموح بها في ألقاب الأعضاء المخصصة. الكلمات المحظورة في إعدادات الرقابة سيكون غير مسموح بها تلقائيا. ضع كل كلمة أو عبارة في سطر منفصل.]]></phrase>
   <phrase title="option_discourageBlankChance" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[اظهار صفحة بيضاء]]></phrase>
@@ -2600,7 +2600,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_lostPasswordTimeLimit" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[الوقت الأدنى من الزمن بين طلبات فقدان كلمة السر (بالثواني)]]></phrase>
   <phrase title="option_lostPasswordTimeLimit_explain" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[لمنع اللود، قد تحتاج إلى بعض التأخير بين طلبات فقدان كلمة السر. إدخال طول الوقت بالثواني الذي يجب على الأعضاء انتظاره.]]></phrase>
   <phrase title="option_match_regular_expression" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[مطابقة التعبير النمطي للـ Option]]></phrase>
-  <phrase title="option_maxContentSpamMessages" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Maximum Messages to Check for Spam]]></phrase>
+  <phrase title="option_maxContentSpamMessages" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[الحد الأقصى من الرسائل للتحقق من السبام]]></phrase>
   <phrase title="option_maxContentSpamMessages_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Users will only have their messages checked as spam until they have successfully posted this many messages. Use 0 to disable all spam checks.]]></phrase>
   <phrase title="option_maximumSearchResults" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[الحد الأقصى لعدد نتائج البحث]]></phrase>
   <phrase title="option_maximumSearchResults_explain" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إنتبه ! لاتجعل هذا الرقم عالي جدا حتي لا يتسبب في زيادة التحميل على سيرفرك مما يؤدي الي بطىء ملحوظ في السيرفر ]]></phrase>
@@ -2636,10 +2636,11 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_newsFeedMessageSnippetLength_explain" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[عندما يتم عرض الرسالة في خلاصة الأخبار، فسيتم اقتطاعها إلى الطول المحدد هنا.]]></phrase>
   <phrase title="option_onlineStatusTimeout" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[مهلة حالة المتصلون الآن (بالدقائق)]]></phrase>
   <phrase title="option_onlineStatusTimeout_explain" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أثناء نشاط العضو بالمنتدى سيتم اعتباره متصلاً، بعد خموله خلال الوقت المحدد هنا، النظام تلقائياً سيعتبره غير متصل.]]></phrase>
+  <phrase title="option_payPalAlternateAccounts" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[حسابات الباي بال البديلة]]></phrase>
   <phrase title="option_payPalPrimaryAccount" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حساب الباي بال الرئيسي]]></phrase>
   <phrase title="option_payPalPrimaryAccount_explain" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[This is the primary email address on your PayPal account. If this is incorrect, payments may not be processed successfully. Note this must be a PayPal Premier or Business account and IPNs must be enabled. Please see our <a href="http://xenforo.com/help/user-upgrades/" target="_blank">help</a>.]]></phrase>
   <phrase title="option_plusone" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تفعيل زر جوجل بلوس +1]]></phrase>
-  <phrase title="option_plusone_explain" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[ميزة <a href="http://www.google.com/+1/button/" target="_blank"> زر جوجل +1</a> تسمح للزوار و الأعضاء بأن يوصو بصفحات موقعك للآخرين.]]></phrase>
+  <phrase title="option_plusone_explain" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[ميزة <a href="https://developers.google.com/+/web/+1button/" target="_blank"> زر جوجل +1</a> تسمح للزوار و الأعضاء بأن يوصو بصفحات موقعك للآخرين.]]></phrase>
   <phrase title="option_pollMaximumResponses" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[أقصى عدد لإختيارات التصويت]]></phrase>
   <phrase title="option_pollMaximumResponses_explain" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[هذا سيحدد عدد الإختيارات التي سيمكن أن تعطى في التصويت الواحد]]></phrase>
   <phrase title="option_preventDiscouragedRegistration" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منع عناوين آيبي من التسجيل]]></phrase>
@@ -2652,6 +2653,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_readMarkingDataLifetime" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[التحكم في فتره جعل الموقع مقروء ( باليوم)]]></phrase>
   <phrase title="option_readMarkingDataLifetime_explain" addon_id="XenForo" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[عدد الأيام التي تعرض فيها المنتديات كمقروءة عندما يتم إختيارها كمقروءة (كما هو الحال بالنسبة للمواضيع والمنتديات). البيانات الأقدم من هذا الرقم سيتم اعتبارها مقروءة.]]></phrase>
   <phrase title="option_registrationCheckDnsBl" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[التحقق من DNSBL في التسجيل]]></phrase>
+  <phrase title="option_registrationCheckDnsBl_explain" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[عند تسجيل عضو جديد يتم التحقق من عناوين IP في قوائم الحظر لـ DNS هذا يساعد في منع السبام و الرسائل العشوائية. إذا لم يتم دمج StopForumSpam، سيتم التحقق من Tornevall DNSBL.]]></phrase>
   <phrase title="option_registrationDefaults" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[خيارات التسجيل الافتراضية]]></phrase>
   <phrase title="option_registrationDefaults_explain" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[من أجل الحصول على نموذج تسجيل سريع و سلس، لا تظهر تفضيلات كثيرة. هذا الخيار يسمح لك تعيين القيم الافتراضية لتسجيل الأعضاء الجدد.]]></phrase>
   <phrase title="option_registrationSetup" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[خيارات التسجيل]]></phrase>
@@ -2669,6 +2671,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_searchResultsPerPage" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عدد صفحات نتائج البحث]]></phrase>
   <phrase title="option_searchResultsPerPage_explain" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[هنا سيتم عرض اقصى عدد لنتائج البحث في الصفحه الواحده]]></phrase>
   <phrase title="option_searchUsersWithContent" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[بحث عن تطابق الأعضاء مع محتوى البحث]]></phrase>
+  <phrase title="option_searchUsersWithContent_explain" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[قد يكون لديك أيضا نظام عودة المستخدمين، أسماء المستخدمين التي تبدأ مع كلمات البحث عند البحث عن المحتوى.]]></phrase>
   <phrase title="option_showFirstCookieNotice" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[عرض ملاحظة حول الكوكيز في أول زيارة]]></phrase>
   <phrase title="option_showFirstCookieNotice_explain" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[عند دخول الزائر لأول مرة للصفحة (بدون استخدام للكوكيز بالموقع)، في حال تمكينها، سوف يرى العضو ملاحظة توضح استخدام الكوكيز من قبل هذا الموقع واستمراره يعني موافقته على استخدام ملفات تعريف الارتباط (الكوكيز ). تم تصميم هذا الخيار للإمتثال للوائح الاتحاد الأوروبي .]]></phrase>
   <phrase title="option_spamCheckIpsDaysLimit" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[التحقق من اﻵيبيات خلال]]></phrase>
@@ -2704,7 +2707,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
 يمكنك أيضا تحديد ما يصل الى أكثر من حسابين لاعلان حساباتك بعد استخدام زر التغريد.
  <a href="https://about.twitter.com/resources/buttons#tweet" target="_blank">لمزيد من المعلومات...</a>]]></phrase>
   <phrase title="option_twitterAppKey" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[مفتاح المستهلك لتطبيق تويتر]]></phrase>
-  <phrase title="option_twitterAppKey_explain" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[للسماح للمستخدمين تسجيل الدخول باستخدام حسابات تويتر الخاصة بهم، يجب إنشاء <a href="https://dev.twitter.com/apps" target="_blank">تطبيق تويتر</a> وأدخل المفتاح المستهلك والسرية.]]></phrase>
+  <phrase title="option_twitterAppKey_explain" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[للسماح للآعضاء بتسجيل الدخول باستخدام حسابات تويتر الخاصة بهم، يجب إنشاء <a href="https://dev.twitter.com/apps" target="_blank">تطبيق تويتر</a> وأدخال مفتاح المستهلك والسرية.]]></phrase>
   <phrase title="option_twitterAppSecret" addon_id="XenForo" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[كلمة سر المستهلك لتطبيق تويتر]]></phrase>
   <phrase title="option_twitterAppSecret_explain" addon_id="XenForo" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[إذا قمت بإنشاء تطبيق تويتر للسماح بتسجيل الدخول عبر حساب تويتر، قم بوضع كلمة سر التطبيق (consumer secret) هنا.]]></phrase>
   <phrase title="option_uncompressedJs" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[استخدام ملفات الجافا الغير مضغوطة]]></phrase>
@@ -2715,6 +2718,8 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_useFriendlyUrls_explain" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[إذا قمت بتمكين هذا الخيار، فإن الروابط التي تم إنشاؤها بواسطة النظام لا تشمل"index.php?". ملاحظة : يجب تفعيل دالة mod_rewrite ويجب توفير ملف .htaccess و يكون في مكانه المعتاد .]]></phrase>
   <phrase title="option_userBanners" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[ألقاب العضو]]></phrase>
   <phrase title="option_userBanners_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_userChangeLogLength" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[مدة سجل تغييرات العضو (بالأيام)]]></phrase>
+  <phrase title="option_userChangeLogLength_explain" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[سيتم الإحتفاظ ببيانات سجل تغييرات العضو لهذا العدد من الأيام. إستخدم 0 للإحتفاظ بهذه البيانات بشكل دائم.]]></phrase>
   <phrase title="option_userTagKeepAt" addon_id="XenForo" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[تفعيل علامة @ في الاشارة للأعضاء]]></phrase>
   <phrase title="option_userTagKeepAt_explain" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[تستخدم علامة @ للإشارة للأعضاء في المواضيع و غيرها، عند إيقاف هذا الخيار سيتم ازالة هذا الحرف من إسم العضو المشار إليه.]]></phrase>
   <phrase title="option_usernameLength" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[طول اسم العضو]]></phrase>
@@ -2867,7 +2872,7 @@ Callback arguments:
   <phrase title="permission_groups" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[مجموعات التصاريح]]></phrase>
   <phrase title="permission_id" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[معرف الترخيص]]></phrase>
   <phrase title="permission_ids_must_be_unique_within_groups" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Permission IDs must be unique within groups. The specified ID is already in use.]]></phrase>
-  <phrase title="permission_inherit_desc" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The value of this permission will be inherited from a parent node or the global permissions, unless the default permissions have been revoked in another applicable permission set.]]></phrase>
+  <phrase title="permission_inherit_desc" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[قيمة هذا التصريح سوف تكون موروثة من العقدة الأصلية أو التصاريح العامة، ما لم يكن قد ألغي تطبيقها في مجموعة أخرى.]]></phrase>
   <phrase title="permission_interface_avatarPermissions" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[تصاريح الصور الرمزية]]></phrase>
   <phrase title="permission_interface_conversationModeratorPermissions" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[تصاريح إدارة المحادثات الخاصة]]></phrase>
   <phrase title="permission_interface_conversationPermissions" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[تصاريح المحادثات الخاصة]]></phrase>
@@ -2895,7 +2900,7 @@ Callback arguments:
   <phrase title="permission_profilePost_viewDeleted" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[مشاهدة مشاركات الملف الشخصي المحذوفة]]></phrase>
   <phrase title="permission_profilePost_viewModerated" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[ مشاهدة مشاركات الملف الشخصي المراقبة]]></phrase>
   <phrase title="permission_profilePost_warn" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[إعطاء إنذارات في مشاركات الملف الشخصي]]></phrase>
-  <phrase title="permission_revoke_desc" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This permission is granted only if an "Allow" value is explicitly specified in another applicable permission set on this node.]]></phrase>
+  <phrase title="permission_revoke_desc" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[يتم منح هذا الإذن فقط إذا تم تحديد القيمة "سماح"  في تصريح آخر مطبق على هذه العقدة.]]></phrase>
   <phrase title="permission_signature_align" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[السماح بتغييرات اتجاه النص]]></phrase>
   <phrase title="permission_signature_basicText" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[السماح بتنسيقات النص اﻷساسية (عريض، مائل، إلخ)]]></phrase>
   <phrase title="permission_signature_block" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[السماح ببلوكات اﻷكواد  (كود, إقتباس, ..ألخ)]]></phrase>
@@ -2932,7 +2937,7 @@ Callback arguments:
   <phrase title="phrase_name_must_be_literal" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[إسم العبارة يجب ان يكون بالحروف]]></phrase>
   <phrase title="phrase_search_results" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[نتيجة البحث في العبارات]]></phrase>
   <phrase title="phrase_status" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حالة العبارة]]></phrase>
-  <phrase title="phrase_text" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[نص العبارة]]></phrase>
+  <phrase title="phrase_text" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[نص العبارة]]></phrase>
   <phrase title="phrase_titles_must_be_unique_in_language" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عنوان العبارة يجب إن يكون فريدا أو قد تكون العبارة قيد الإستخدام حاليا]]></phrase>
   <phrase title="phrases" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[العبارات]]></phrase>
   <phrase title="phrases_in_this_language_can_not_be_modified" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[لا يمكن التعديل على العبارات في هذه اللغة .. الرجاء المحاولة في لغة أخرى.]]></phrase>
@@ -3007,10 +3012,10 @@ Callback arguments:
   <phrase title="please_correct_following_errors" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[يرجى تصحيح الأخطاء التالية]]></phrase>
   <phrase title="please_ensure_that_filename_is_less_than_100_characters" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[الرجاء التأكد من أن اسم الملف الخاص بك أقل من 100 حرف.]]></phrase>
   <phrase title="please_enter_a_date_in_the_future" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[رجاءا ادخل التاريخ على ان يكون بعد اليوم]]></phrase>
-  <phrase title="please_enter_a_replacement_value" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Please enter a replacement value.]]></phrase>
+  <phrase title="please_enter_a_replacement_value" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[الرجاء إدخال قيمة الإستبدال.]]></phrase>
   <phrase title="please_enter_an_id_using_only_alphanumeric" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Please enter an ID using only a-z, A-Z, 0-9, and _ characters.]]></phrase>
   <phrase title="please_enter_an_upgrade_cost_greater_than_zero" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Please enter an upgrade cost greater than zero.]]></phrase>
-  <phrase title="please_enter_another_custom_title_disallowed_words" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Please enter another custom title. The entered value contains disallowed words.]]></phrase>
+  <phrase title="please_enter_another_custom_title_disallowed_words" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[الرجاء إدخال عنوان مخصص آخر. القيمة التي تم إدخالها تحتوي على عبارة أو كلمة غير مسموح بها.]]></phrase>
   <phrase title="please_enter_another_name_disallowed_words" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[إسم العضو يجب أن يكون بحروف عربية و بدون أرقام أو رموز.]]></phrase>
   <phrase title="please_enter_another_name_required_format" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الرجاء إدخال اسم آخر. القيمة التي تم إدخالها لا تطابق التنسيق المطلوب.]]></phrase>
   <phrase title="please_enter_at_least_one_choice" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[من فضلك ادخل على الأقل خيار واحد.]]></phrase>
@@ -3038,6 +3043,7 @@ Callback arguments:
   <phrase title="please_enter_poll_question" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[يرجى إدخال سؤال صحيح للتصويت]]></phrase>
   <phrase title="please_enter_positive_whole_number" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Please enter a positive whole number.]]></phrase>
   <phrase title="please_enter_property_name_using_only_alphanumeric" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[أدخل إسم الخاصية باستخدام  أ-ي, A-Z, 0-9, و _ حروف فقط]]></phrase>
+  <phrase title="please_enter_reason_for_reporting_this_member" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[الرجاء إدخال سبب الإبلاغ عن هذا العضو.]]></phrase>
   <phrase title="please_enter_reason_for_reporting_this_message" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[رجاءا ادخل السبب لابلاغك عن هذه المشاركه]]></phrase>
   <phrase title="please_enter_search_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Please enter search text.]]></phrase>
   <phrase title="please_enter_text_for_each_choice" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[الرجاء إدخال النص لكل خيار.]]></phrase>
@@ -3091,7 +3097,7 @@ Callback arguments:
   <phrase title="please_enter_valid_skype_name" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[يرجى إدخال إسم Skype صحيح]]></phrase>
   <phrase title="please_enter_valid_smilie_category_id" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[الرجاء إدخال معرف صالح لفئة الابتسامات]]></phrase>
   <phrase title="please_enter_valid_smilie_text" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[يرجى إدخال نص إبتسامة صحيح]]></phrase>
-  <phrase title="please_enter_valid_style_property_value" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Please enter a valid style property value.]]></phrase>
+  <phrase title="please_enter_valid_style_property_value" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[الرجاء إدخال قيمة صالحة لخاصية الستايل.]]></phrase>
   <phrase title="please_enter_valid_time_format" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[الرجاء إدخال صيغة الوقت صحيح.]]></phrase>
   <phrase title="please_enter_valid_title" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[الرجاء إدخال العنوان]]></phrase>
   <phrase title="please_enter_valid_twitter_name_using_alphanumeric" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[يرجى إدخال إسم عضو  Twitter صحيح، إستخدم حروف وأرقام لاتينية وعلامة ( _ ) فقط]]></phrase>
@@ -3296,7 +3302,6 @@ Callback arguments:
   <phrase title="recurring_payments" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Recurring payments]]></phrase>
   <phrase title="redirect" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[إعادة التوجيه]]></phrase>
   <phrase title="redirect_changes_saved_successfully" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تم حفظ التغيرات الخاصه بك ..  ]]></phrase>
-  <phrase title="redirect_field_validated" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[The value '{value}' was successfully validated against field '{name}'.]]></phrase>
   <phrase title="redirection_notice" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[إعادة توجيه]]></phrase>
   <phrase title="redo_ctrl_y" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إعادة (Ctrl+Y)]]></phrase>
   <phrase title="register" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تسجيل]]></phrase>
@@ -3817,7 +3822,6 @@ Callback arguments:
   <phrase title="stopforumspam_moderate_registration_threshold" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[إدارة التسجيلات حين اكتشاف إشارات تحذيرية من هذا التسجيل]]></phrase>
   <phrase title="stopforumspam_moderate_registration_threshold_explain" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[حدد عدد الاشارات التحذيرية المطلوبة (1-3) من أجل وضع المسجل خاضع للموافقة اليدوية بدلاً من الموافقة التلقائية.]]></phrase>
   <phrase title="stopforumspam_reject_registration_threshold" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[إلغاء التسجيلات حين اكتشاف إشارات تحذير متعددة]]></phrase>
-  <phrase title="stopforumspam_reject_registration_threshold_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Specify the number of warning flags (1-3) that are required for a registration to be automatically rejected. This number should be equal to or greater than the value for the moderation threshold above.]]></phrase>
   <phrase title="stopforumspam_submit_information" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[إرسال معلومات عضو السبام إلى StopForumSpam باستخدام مفتاح API]]></phrase>
   <phrase title="stopforumspam_submit_information_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If you have an API key from StopForumSpam, you may have spammer activity on your site automatically reported back to StopForumSpam in order to improve the database for other users. This option will cause users who are banned via the spam cleaner to be reported.]]></phrase>
   <phrase title="store_drafts_for_x_hours" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[الوقت بالساعات]]></phrase>
@@ -3853,6 +3857,7 @@ Callback arguments:
   <phrase title="style_property_bbCodeQuoteMessage_master" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[نص BB Code الاقتباس]]></phrase>
   <phrase title="style_property_bbCodeQuote_description_master" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[يستخدم هذا التنسيق أيضاً مع تنسيق منطقة BB Code لتقديم التصميم لمناطق الإقتباس [QUOTE].]]></phrase>
   <phrase title="style_property_bbCodeQuote_master" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[BB Code الإقتباس]]></phrase>
+  <phrase title="style_property_bbCodeSpoilerText_description_master" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[التحكم بمظهر مقطع نص المحنوى المخفي حين إظهاره.]]></phrase>
   <phrase title="style_property_bbCodeSpoilerText_master" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[نص BB Code المحتوى المخفي]]></phrase>
   <phrase title="style_property_blockLinksListItemActive_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
   <phrase title="style_property_blockLinksListItemActive_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Link, Active State]]></phrase>
@@ -3942,7 +3947,6 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_ctrlUnitLabelWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Control Unit Label Width]]></phrase>
   <phrase title="style_property_ctrlUnitLabel_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the area containing the label within the control unit.]]></phrase>
   <phrase title="style_property_ctrlUnitLabel_master" addon_id="XenForo" version_id="1030034" version_string="1.3.0 Beta 4"><![CDATA[منطقة التسمية]]></phrase>
-  <phrase title="style_property_ctrlUnitValueWidth_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Form Control Unit Value Block Width]]></phrase>
   <phrase title="style_property_ctrlUnit_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the individual blocks around which forms in XenForo are built.]]></phrase>
   <phrase title="style_property_ctrlUnit_master" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[وحدة التحكم]]></phrase>
   <phrase title="style_property_definitions_must_be_unique_per_style" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Style property definitions must be unique per style. The specified ID is already used in this style.]]></phrase>
@@ -4116,7 +4120,6 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_html_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[HTML]]></phrase>
   <phrase title="style_property_imagePath_description_master" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[This path represents either the relative or absolute path to images used by the XenForo user interface. You may change this to point to a CDN if you wish.]]></phrase>
   <phrase title="style_property_imagePath_master" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[مسار الصور]]></phrase>
-  <phrase title="style_property_inlineModChecked_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The values specified here will be applied to items selected for inline moderation.]]></phrase>
   <phrase title="style_property_inlineModChecked_master" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[مهام ادارية - تمت المراجعة]]></phrase>
   <phrase title="style_property_inlineMod_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_inlineMod_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Inline Moderation Checked]]></phrase>
@@ -4311,7 +4314,6 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="style_property_nonResponsiveMinWidth_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Non-Responsive Minimum Width]]></phrase>
   <phrase title="style_property_noticeInterval_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Set the amount of time in milliseconds for which each notice is shown on screen before the next notice scrolls into view.]]></phrase>
   <phrase title="style_property_noticeInterval_master" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[الفاصل الزمني بين الملاحظات]]></phrase>
-  <phrase title="style_property_noticeSpeed_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enter a duration (in milliseconds) for the notice scroll animation. A value of zero will disable animation, and this value is subject to the XenForo global animation speed multiplier.]]></phrase>
   <phrase title="style_property_noticeSpeed_master" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[سرعة الحركة للملاحظات]]></phrase>
   <phrase title="style_property_noticeVertical_description_master" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[إفتراضي، الملاحظات سوف تنتقل جنباً إلى جنب]]></phrase>
   <phrase title="style_property_noticeVertical_master" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[إستخدم الانتقال العمودي للملاحظات]]></phrase>
@@ -4410,8 +4412,8 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="style_property_primaryMedium_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Medium]]></phrase>
   <phrase title="style_property_profilePageLastActivityText_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles text that describes where the user was last active.]]></phrase>
   <phrase title="style_property_profilePageLastActivityText_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Last Activity Text]]></phrase>
-  <phrase title="style_property_profilePageSidebarInfoBlockDd_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the values for fields in sidebar info blocks.]]></phrase>
-  <phrase title="style_property_profilePageSidebarInfoBlockDd_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Sidebar Info Field Value]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlockDd_description_master" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[تنسيقات القيم للحقول في كتل معلومات الشريط الجانبي.]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlockDd_master" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[قيمة حقل المعلومات بالشريط الجانبي]]></phrase>
   <phrase title="style_property_profilePageSidebarInfoBlockDt_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the labels for data in info blocks.]]></phrase>
   <phrase title="style_property_profilePageSidebarInfoBlockDt_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Sidebar Info Field Name]]></phrase>
   <phrase title="style_property_profilePageSidebarInfoBlock_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Controls the styling of the outer section of sidebar info blocks.]]></phrase>
@@ -4525,7 +4527,6 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="style_property_tab_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab]]></phrase>
   <phrase title="style_property_tabsContainer_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of tabbed user interfaces other than those in the navigation bar.]]></phrase>
   <phrase title="style_property_tabsContainer_master" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[حاوي علامات التبويب]]></phrase>
-  <phrase title="style_property_tabsnav_admin" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[علامة تبويب التنقل]]></phrase>
   <phrase title="style_property_textCtrlBackground_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[]]></phrase>
   <phrase title="style_property_textCtrlBackground_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Text Control Background]]></phrase>
   <phrase title="style_property_textCtrlCode_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls if they are to contain code rather than regular text.]]></phrase>
@@ -4558,7 +4559,7 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="style_property_ugcLinkHover_master" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[الروابط بالمشاركات (التأرجح)]]></phrase>
   <phrase title="style_property_ugcLink_description_master" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[تنسيق الروابط المدرجة بالمشاركات.]]></phrase>
   <phrase title="style_property_ugcLink_master" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[الروابط بالمشاركات]]></phrase>
-  <phrase title="style_property_visitorPanelAvatar_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Layout for the visitor panel. The image size is controlled by the @visitorPanelAvatarSize property.]]></phrase>
+  <phrase title="style_property_visitorPanelAvatar_description_master" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[تخطيط لوحة الزائر على الشريط الجانبي.]]></phrase>
   <phrase title="style_property_visitorPanelAvatar_master" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[الصورة الرمزية بلوحة العضو]]></phrase>
   <phrase title="style_property_visitorPanelStats_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_visitorPanelStats_master" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[الإحصائيات بلوحة العضو]]></phrase>
@@ -4585,12 +4586,12 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="sure_you_want_to_resend_account_confirmation_email" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[هل أنت متأكد من أنك تريد إعادة إرسال بريد التفعيل؟ أي رسائل تفعيل سابقة لن تعمل طويلاً. هذه الرسالة سوف ترسل إلى: {email}.]]></phrase>
   <phrase title="table_prefix" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[بادئة الجداول]]></phrase>
   <phrase title="table_prefix_or_database_name_is_not_correct" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[بادئة الجدول أو اسم قاعدة البيانات غير صحيحة.]]></phrase>
-  <phrase title="tag_contained_children_and_value_attribute" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tag contained children and a value attribute.]]></phrase>
+  <phrase title="tag_contained_children_and_value_attribute" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[العلامة تحتوي على فرع و وصف قيمة.]]></phrase>
   <phrase title="tags_you_in_message" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tags you in a message]]></phrase>
   <phrase title="tags_you_in_profile_post_or_comment" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[أشير إليك في مشاركة أو تعلق ملف شخصي]]></phrase>
   <phrase title="target_user" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[العضو الهدف]]></phrase>
   <phrase title="template" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[القالب]]></phrase>
-  <phrase title="template_code" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[كود القالب]]></phrase>
+  <phrase title="template_code" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[كود القالب]]></phrase>
   <phrase title="template_contains" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[محتويات القالب]]></phrase>
   <phrase title="template_contents" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[محتويات القالب]]></phrase>
   <phrase title="template_history" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[سجل القالب]]></phrase>
@@ -4639,6 +4640,7 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="test_passed" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[تم الإختبار !]]></phrase>
   <phrase title="test_permissions" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إختبار التصاريح]]></phrase>
   <phrase title="test_permissions_of_user" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[إختبار تصاريح عضو]]></phrase>
+  <phrase title="test_twitter_integration" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[تجربة دمج تويتر]]></phrase>
   <phrase title="text" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[نص]]></phrase>
   <phrase title="text_box" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[صندوق نص]]></phrase>
   <phrase title="text_box_tags_must_specify_name" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[يجب تحديد إسم لمربع النص هذا.]]></phrase>
@@ -4659,7 +4661,6 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="the_following_reason_was_given" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[ونظرا للأسباب التالية :]]></phrase>
   <phrase title="the_following_recipients_could_not_be_found_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The following recipients could not be found: {names}.]]></phrase>
   <phrase title="the_following_templates_contained_errors_and_were_not_saved_x" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[القوالب التالية تحتوي على أخطاء ولم يتم حفظها: {errors}]]></phrase>
-  <phrase title="the_following_values_can_be_found_in_your_ipb_config_file" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[The following values can be found in your IPB <b>conf_global.php</b> file.]]></phrase>
   <phrase title="the_message_to_be_shown_when_the_display_criteria_are_met" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[هنا الرسالة التي ستظهر للزوار عند توافق حالاتهم مع الشروط التي حددتها، يمكنك إدراج <b>{name}</b> لاستبدالها بإسم العضو اوتوماتيكياً]]></phrase>
   <phrase title="the_uploaded_file_was_not_an_image_as_expected" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[The uploaded file was not an image as expected.]]></phrase>
   <phrase title="there_are_no_outdated_phrases" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[جيد ... كافة العبارات محدثة للإصدار الحالي]]></phrase>
@@ -4746,7 +4747,8 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="this_will_not_be_shown_to_member_receiving_warning" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[هذا لن يتم عرضه للعضو الذي تلقى الانذار.]]></phrase>
   <phrase title="this_will_not_remove_any_content_this_user_has_already_created" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[هذا لن يزيل أي محتوى قد تم إنشائه مسبقاً بواسطة هذا العضو.]]></phrase>
   <phrase title="this_will_send_copy_of_this_email_to_x_for_testing" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[هذا سيقوم بارسال نسخه من هذا الايميل الى الايميل {email} على سبيل التجربه]]></phrase>
-  <phrase title="this_will_test_xenforo_facebook_integration" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[هنا سيتم اختبار عملية اندماج الفيس بوك بالمنتدى .. يجب أن يكون لديك حساب قيس بوك لتتم عملية الإختبار بنجاح.]]></phrase>
+  <phrase title="this_will_test_xenforo_facebook_integration" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[هنا سيتم اختبار عملية اندماج الفيس بوك بالمنتدى .. يجب أن يكون لديك حساب فيس بوك لتتم عملية الإختبار بنجاح.]]></phrase>
+  <phrase title="this_will_test_xenforo_twitter_integration" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[هنا سيتم اختبار عملية إندماج تويتر بالمنتدى. يجب أن يكون لديك حساب تويتر لتتم عملية الإختبار بنجاح.]]></phrase>
   <phrase title="this_would_ban_all_email_addresses" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[هذا سيقوم بحظر كافة عناوين البريد الإلكتروني.]]></phrase>
   <phrase title="thousands_separator" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[فاصلة الآلاف]]></phrase>
   <phrase title="thread" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[الموضوع]]></phrase>
@@ -4779,6 +4781,7 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="title_contains" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[محتويات العنوان]]></phrase>
   <phrase title="title_template" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[عنوان القالب]]></phrase>
   <phrase title="to_test_facebook_integration_must_enter_application_info" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[لاختبار تكامل الفيسبوك، يجب عليك أولا إدخال معلومات <a href="{url}">تطبيق الفيس بوك </a>.]]></phrase>
+  <phrase title="to_test_twitter_integration_must_enter_application_info" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[لاختبار دمج تويتر، يجب عليك أولا إدخال <a href="{url}">معلومات تطبيق تويتر</a>.]]></phrase>
   <phrase title="today" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[اليوم]]></phrase>
   <phrase title="today_at_x" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ اليوم في {time}]]></phrase>
   <phrase title="todays_birthdays" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[أعياد ميلاد اليوم]]></phrase>
@@ -4810,6 +4813,7 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="trophy_user_titles" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[التحكم بألقاب الأعضاء]]></phrase>
   <phrase title="tweet" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Tweet]]></phrase>
   <phrase title="twitter_integration" addon_id="XenForo" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[دمج تويتر]]></phrase>
+  <phrase title="twitter_returned_following_error_x" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[تويتر قام بإرجاع الخطأ التالي: {error}.]]></phrase>
   <phrase title="type_of_moderator" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[نوع المشرف]]></phrase>
   <phrase title="unapprove_posts" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[إلغاء الموافقة على المشاركات]]></phrase>
   <phrase title="unapprove_threads" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[عدم الموافقة على المواضيع]]></phrase>
@@ -5156,7 +5160,7 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="valid" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[مفعل]]></phrase>
   <phrase title="validate_configuration" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[التحقق من صحة الاعداد]]></phrase>
   <phrase title="validating_user_group_id" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Validating User Group ID]]></phrase>
-  <phrase title="value_a_z_0_9_and_only" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Value (A-Z, 0-9, and _ only)]]></phrase>
+  <phrase title="value_a_z_0_9_and_only" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[القيمة (A-Z, 0-9, and _ only)]]></phrase>
   <phrase title="value_display_html" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[عرض القيمة HTML]]></phrase>
   <phrase title="value_match_requirements" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تنسيق القيمة المطلوبة]]></phrase>
   <phrase title="value_represents_internal_value_for_choice_text_is_displayed" addon_id="XenForo" version_id="1030034" version_string="1.3.0 Beta 4"><![CDATA[القيمة تمثل القيمة الداخلية للإختيار. يظهر نص الحقل عندما يتم عرض الحقل. يجب عدم تغيير قيمة الحقل إذا قام أي من الأعضاء بتحديد هذا الاختيار، و في حال قمت بذلك، الأعضاء الذين اختارو قيمة لهذا الحقل سوف يفقدون ما اختاروه من قيم.]]></phrase>
