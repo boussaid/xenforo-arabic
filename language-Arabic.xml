@@ -165,7 +165,7 @@
   <phrase title="admin_navigation_permissionsDevelopment" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[الصلاحيات]]></phrase>
   <phrase title="admin_navigation_phrases" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[العبارات]]></phrase>
   <phrase title="admin_navigation_rebuildCaches" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[إعادة بناء الكاش]]></phrase>
-  <phrase title="admin_navigation_routeFilters" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مستبدل الروابط]]></phrase>
+  <phrase title="admin_navigation_routeFilters" addon_id="XenForo" version_id="1030470" version_string="1.3.4"><![CDATA[مستبدلات المسار]]></phrase>
   <phrase title="admin_navigation_routePrefixes" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[محددات المسار]]></phrase>
   <phrase title="admin_navigation_searchForUsers" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[البحث عن أعضاء]]></phrase>
   <phrase title="admin_navigation_searchPhrases" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[البحث في العبارات]]></phrase>
@@ -2045,7 +2045,7 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="moderation_queue_short" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[بانتظار الإدارة]]></phrase>
   <phrase title="moderator" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[المشرف]]></phrase>
   <phrase title="moderator_actions" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[عمليات المشرفين]]></phrase>
-  <phrase title="moderator_editable" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[المشرف قابل للتحرير]]></phrase>
+  <phrase title="moderator_editable" addon_id="XenForo" version_id="1030370" version_string="1.3.3"><![CDATA[التعديل يتطلب الموافقة]]></phrase>
   <phrase title="moderator_log" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[سجل المشرفين]]></phrase>
   <phrase title="moderator_log_entry" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[سجل دخول المشرف]]></phrase>
   <phrase title="moderator_log_post_approve" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[مشاركة موافق عليها]]></phrase>
@@ -2572,7 +2572,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_includeTitleInUrls" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تضمين محتوى العنوان في الروابط]]></phrase>
   <phrase title="option_includeTitleInUrls_explain" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[إذاتم تفعيل هذا الخيار، الروابط ستكون هكذا /threads/my-thread.128/ في حالة عدم التفعيل سيتم استبعاد العنوان و تكون هكذا /threads/128/]]></phrase>
   <phrase title="option_indexRoute" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مسار الصفحة الرئيسية]]></phrase>
-  <phrase title="option_indexRoute_explain" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[إذا كنت ترغب في تغيير الصفحة الرئيسية الإفتراضية للمنتدى، يمكنك إدخال مسار جديد هنا. المسار هو جزء من العنوان بعد عنوان الدليل الرئيسي للمنتدى، مثلا:  forums/ أو pages/page-name/.]]></phrase>
+  <phrase title="option_indexRoute_explain" addon_id="XenForo" version_id="1030470" version_string="1.3.4"><![CDATA[إذا كنت ترغب في تغيير الصفحة الرئيسية الإفتراضية للمنتدى، يمكنك إدخال المسار هنا. المسار هو جزء من العنوان بعد عنوان الدليل الرئيسي للمنتدى، مثلا:  forums/ أو pages/page-name/. لا تضع مستبدل روابط هنا.]]></phrase>
   <phrase title="option_ipInfoUrl" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[رابط جلب معلومات الآي بي (IPv4)]]></phrase>
   <phrase title="option_ipInfoUrl_explain" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[تحديد عنوان URL لاستخدامها لطلب مزيد من المعلومات حول عنوان IPv4. عنوان URL يجب أن يتضمن<strong>{ip}</strong>، والتي سيتم استبدالها مع عنوان IP الفعلي.]]></phrase>
   <phrase title="option_ipLogCleanUp" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[حذف بيانات الآي بي المستخدم بعد X يوم:]]></phrase>
@@ -2927,7 +2927,6 @@ Callback arguments:
   <phrase title="php" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[كود PHP]]></phrase>
   <phrase title="php_built_in_gd" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[دمج مكتبة الصور GD في PHP
 ]]></phrase>
-  <phrase title="php_callback" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[إستدعاء PHP]]></phrase>
   <phrase title="php_callback_x_is_not_valid" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The PHP callback {callback} is not valid.]]></phrase>
   <phrase title="phrase_name_must_be_literal" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[إسم العبارة يجب ان يكون بالحروف]]></phrase>
   <phrase title="phrase_search_results" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[نتيجة البحث في العبارات]]></phrase>
@@ -3308,7 +3307,7 @@ Callback arguments:
   <phrase title="registered_members" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[الأعضاء المسجلين]]></phrase>
   <phrase title="registering" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تسجيل]]></phrase>
   <phrase title="registration_ip" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عنوان اي بي التسجيل]]></phrase>
-  <phrase title="regular_expression" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[ضبط مخصص]]></phrase>
+  <phrase title="regular_expression" addon_id="XenForo" version_id="1030370" version_string="1.3.3"><![CDATA[تعابير قياسية]]></phrase>
   <phrase title="regular_expression_matching" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[مطابقة التعبير القياسي]]></phrase>
   <phrase title="reject" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[رفض]]></phrase>
   <phrase title="reject_and_delete_with_rejection_reason" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[رفض وحذف العضو مع ترك سبب الرفض]]></phrase>
@@ -3490,8 +3489,8 @@ Callback arguments:
   <phrase title="route_class" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[كلاس المسار]]></phrase>
   <phrase title="route_filter" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[فلتر المسار]]></phrase>
   <phrase title="route_filter_find_replace_fields_support_wildcards" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The find and replace fields support wildcards in the format of {name}, with a unique name. The same wildcards should be found in both fields. To limit the wildcard to digits, use {name:digit}; to limit to a string, use {name:string}; {name} will match anything but a forward slash.]]></phrase>
-  <phrase title="route_filters" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مستبدل الروابط]]></phrase>
-  <phrase title="route_filters_allow_you_to_change_standard_urls" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مستبدل الروابط يسمح لك بتغيير عناوين URL القياسية التي تم إنشاؤها بواسطة XenForo.]]></phrase>
+  <phrase title="route_filters" addon_id="XenForo" version_id="1030470" version_string="1.3.4"><![CDATA[مستبدلات المسار]]></phrase>
+  <phrase title="route_filters_allow_you_to_change_standard_urls" addon_id="XenForo" version_id="1030470" version_string="1.3.4"><![CDATA[مستبدلات المسار تسمح لك بتغيير عناوين URL العادية التي تم إنشاؤها بواسطة XenForo.]]></phrase>
   <phrase title="route_prefix" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[محدد المسار]]></phrase>
   <phrase title="route_prefixes" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[محددات المسار]]></phrase>
   <phrase title="route_prefixes_must_be_unique" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[موجه المسار يجب أن يكون فريداً. الموجه المخصص '{prefix}' موجود من قبل.]]></phrase>
@@ -3576,6 +3575,7 @@ Callback arguments:
   <phrase title="search_results" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[نتائج البحث]]></phrase>
   <phrase title="search_results_for_query" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[نتائج البحث]]></phrase>
   <phrase title="search_templates" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[البحث في القوالب]]></phrase>
+  <phrase title="search_text_must_contain_delimiters_modifiers_for_regex" addon_id="XenForo" version_id="1030370" version_string="1.3.3"><![CDATA[يجب أن يحتوي نص البحث على التحديدات و الإستبدالات لاستخدامها في التعبير القياسي.]]></phrase>
   <phrase title="search_this_forum_only" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[بحث في هذا المنتدى فقط .]]></phrase>
   <phrase title="search_this_thread_only" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[بحث بهذا الموضوع فقط]]></phrase>
   <phrase title="search_threads_and_posts" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[البحث المتقدم]]></phrase>
@@ -3657,7 +3657,7 @@ Callback arguments:
   <phrase title="show_changes_made_by_user" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[عرض التغييرات التي تم إجراؤها من قبل العضو]]></phrase>
   <phrase title="show_customizable_templates" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[عرض القوالب المعدلة]]></phrase>
   <phrase title="show_daily_statistics_from" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[عرض الإحصائيات اليومية من]]></phrase>
-  <phrase title="show_day_and_month_of_birth" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عرض يوم وشهر الميلاد فقط]]></phrase>
+  <phrase title="show_day_and_month_of_birth" addon_id="XenForo" version_id="1030370" version_string="1.3.3"><![CDATA[عرض يوم وشهر الميلاد]]></phrase>
   <phrase title="show_deleted_posts" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[مشاهدة المشاركات المحذوفه]]></phrase>
   <phrase title="show_during_registration" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[عرض أثناء التسجيل]]></phrase>
   <phrase title="show_hidden_content_by_x" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[عرض المحتوى المخفي بواسطة {names}]]></phrase>
@@ -3682,7 +3682,7 @@ Callback arguments:
 
 ]]></phrase>
   <phrase title="show_this_smilie_in_the_text_editor" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[عرض هذه الإبتسامة في محرر النصوص]]></phrase>
-  <phrase title="show_year_of_birth" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عرض العمر فقط]]></phrase>
+  <phrase title="show_year_of_birth" addon_id="XenForo" version_id="1030370" version_string="1.3.3"><![CDATA[عرض سنة الميلاد]]></phrase>
   <phrase title="show_your_online_status" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[عرض حالة اتصالك و تواجدك]]></phrase>
   <phrase title="showing_conversations_x_to_y_of_z" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[عرض المحادثات {start} إلى {end} من {total}]]></phrase>
   <phrase title="showing_results_x_to_y_of_z" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[مشاهدة النتائج  {start} إلى {end} من {total}]]></phrase>
@@ -5155,7 +5155,7 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="validate_configuration" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[التحقق من صحة الاعداد]]></phrase>
   <phrase title="validating_user_group_id" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Validating User Group ID]]></phrase>
   <phrase title="value_a_z_0_9_and_only" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[القيمة (A-Z, 0-9, and _ only)]]></phrase>
-  <phrase title="value_display_html" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[عرض القيمة HTML]]></phrase>
+  <phrase title="value_display_html" addon_id="XenForo" version_id="1030370" version_string="1.3.3"><![CDATA[عرض القيمة بتنسيق HTML]]></phrase>
   <phrase title="value_match_requirements" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تنسيق القيمة المطلوبة]]></phrase>
   <phrase title="value_represents_internal_value_for_choice_text_is_displayed" addon_id="XenForo" version_id="1030034" version_string="1.3.0 Beta 4"><![CDATA[القيمة تمثل القيمة الداخلية للإختيار. يظهر نص الحقل عندما يتم عرض الحقل. يجب عدم تغيير قيمة الحقل إذا قام أي من الأعضاء بتحديد هذا الاختيار، و في حال قمت بذلك، الأعضاء الذين اختارو قيمة لهذا الحقل سوف يفقدون ما اختاروه من قيم.]]></phrase>
   <phrase title="variable_name" addon_id="XenForo" version_id="1030270" version_string="1.3.2"><![CDATA[إسم المتغير]]></phrase>
