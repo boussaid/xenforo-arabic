@@ -959,7 +959,7 @@
   <phrase title="create_new_user_group" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إضافة مجموعة أعضاء جديدة]]></phrase>
   <phrase title="create_new_user_upgrade" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[إنشاء ترقية عضو جديدة]]></phrase>
   <phrase title="create_new_warning" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[إنشاء إنذار جديد]]></phrase>
-  <phrase title="create_new_warning_action" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[إنشاء إجراء لإنذار]]></phrase>
+  <phrase title="create_new_warning_action" addon_id="XenForo" version_id="1050270" version_string="1.5.2"><![CDATA[إنشاء إجراء تحذيري]]></phrase>
   <phrase title="create_node" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[إنشاء قسم]]></phrase>
   <phrase title="create_route_filter" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[إنشاء فلتر لرابط]]></phrase>
   <phrase title="create_tag" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[إنشاء وسم]]></phrase>
@@ -2535,7 +2535,8 @@
   <phrase title="option_adminSearchExclusions_explain" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[البنود الغير محددة لن يتم البحث بها في حالة استخدام البحث السريع بلوحة الأدمن]]></phrase>
   <phrase title="option_adminSearchMaxResults" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[عدد النتائج لكل نوع]]></phrase>
   <phrase title="option_adminSearchMaxResults_explain" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[أدخل العدد الأقصى لنتائج البحث التي ستظهر بالقائمة المنسدلة الخاصة بالبحث السريع]]></phrase>
-  <phrase title="option_akismetKey" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Akismet API Key]]></phrase>
+  <phrase title="option_akismetKey" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[مفتاح Akismet API]]></phrase>
+  <phrase title="option_akismetKey_explain" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[<a href="https://akismet.com/signup/" target="_blank">Akismet</a> هي خدمة تقوم بمسح التعليقات وتحدد ما إذا كانت سبام. إذا قمت بإدخال مفتاح API لـ Akismet هنا، سيتم فحص رسائل المستخدم و التحقق منها إن كانت رسائل سبام غير مرغوب فيها. يمكنك التسجيل للحصول على مفتاح API عبر موقعهم. إذا تم تحديد أي رسالة من قبل Akismet كغير مرغوب فيها، فلا بد أن تتم الموافقة عليها يدويا قبل أن يتم عرضها للعامة.]]></phrase>
   <phrase title="option_alertExpiryDays" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[عدد الأيام للإحتفاظ بالتنبيهات التي تمت مشاهدتها]]></phrase>
   <phrase title="option_alertExpiryDays_explain" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[تنبيهات الأعضاء سوف تختفي من صفحة قائمة التنبيهات بعد عدد هذه الأيام من رؤيتها . التنبيهات التي لم يشاهدها العضو لا تنتهي.]]></phrase>
   <phrase title="option_alertsPerPage" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[التنبيهات بكل صفحة]]></phrase>
@@ -2626,6 +2627,9 @@
   <phrase title="option_editLogDisplay" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[تمكين عرض سجل التعديل بعد X دقيقة:]]></phrase>
   <phrase title="option_editLogDisplay_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[إذا تم تمكين هذا الخيار فإن أي تعديل بعد المدة المحددة هنا سوف يؤدي لظهور رسالة آخر تعديل بنهاية المشاركة.]]></phrase>
   <phrase title="option_emailBounceHandler" addon_id="XenForo" version_id="1040470" version_string="1.4.4"><![CDATA[المعالج الآلي للبريد الإلكتروني المرتد]]></phrase>
+  <phrase title="option_emailBounceHandler_explain" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[يسمح هذا الخيار لحساب "عنوان البريد الإلكتروني المرتد" ان تتم القراءة و المعالجة التلقائية لتقارير البريد الإلكتروني المرتد. وهذا سيكشف إذا ما ان الايميلات المرسلة لمستخدم ما سترتد، مما سيجبر المستخدم على تحديث عنوان البريد الإلكتروني الخاص به ومنع النظام من الارسال مجددا حتى يتم تحديثه و التحقق منه. هذه العملية يمكن أن تساعد في تقليل فرصة اعتبار  البريد الإلكتروني المرسلة من منتداك كبريد مزعج.<br />
+<br />
+هذا الخيار سيقرأ ويزيل الرسائل من الحساب المحدد عند معالجتها. يجب أن توجه مثل هذا الخيار لحساب هدفه الوحيد جمع رسائل البريد الإلكتروني المرتدة من المنتدى. و يجب ان تدرج قيمة في خيار "البريد الإلكتروني لإستقبال الرسائل المرتجعة".]]></phrase>
   <phrase title="option_emailConversationIncludeMessage" addon_id="XenForo" version_id="1050051" version_string="1.5.0 Release Candidate 1"><![CDATA[تضمين نص المحادثة كاملاً في رسائل الإشعار بالبريد الالكتروني.]]></phrase>
   <phrase title="option_emailConversationIncludeMessage_explain" addon_id="XenForo" version_id="1030052" version_string="1.3.0 Release Candidate 2"><![CDATA[مع هذا الخيار فإن محتوى المحادثة الخاصة سيرسل كاملا في رسالة البريد الالكتروني الخاصة بإشعار العضو بمحادثته .. في حال تعطيل هذا الخيار سيتطلب منه  الأمر زيارة المنتدى للإطلاع على محتوى الرسالة.]]></phrase>
   <phrase title="option_emailSenderName" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[إسم مرسل البريد الافتراضي]]></phrase>
@@ -4077,7 +4081,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="spam_cleaner_was_run_by_x" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[{name} تم التبليغ بالمشاركة المزعجة بواسطة]]></phrase>
   <phrase title="spam_deleted" addon_id="XenForo" version_id="1040770" version_string="1.4.7"><![CDATA[تم حذف السبام.]]></phrase>
   <phrase title="spam_log" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[سجل السبام]]></phrase>
-  <phrase title="spam_phrase_matched_x" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[مطابقة عبارة السبام ({phrase})]]></phrase>
+  <phrase title="spam_phrase_matched_x" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[تطابق مع عبارة السبام ({phrase})]]></phrase>
   <phrase title="spam_prevention_registration_rejected" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[تم رفض تسجيلك لأنه يشبه السلوك مسجل آلي أو سبام. الرجاء الاتصال بالمسؤول للمزيد من المعلومات أو المساعدة.]]></phrase>
   <phrase title="spam_trigger_log" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[سجل آثار السبام]]></phrase>
   <phrase title="specific_users" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[أعضاء محددين]]></phrase>
@@ -4143,7 +4147,8 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="stop_watching_threads" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[إلغاء متابعة هذه المواضيع]]></phrase>
   <phrase title="stopforumspam_enable_registration_check" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[التحقق من التسجيلات الجديدة ضمن قاعدة بيانات StopForumSpam.]]></phrase>
   <phrase title="stopforumspam_enable_registration_check_explain" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[StopForumSpam سوف يختبر البيانات المجمعة من عمليات تسجيل الأعضاء ومحاولة التحقق ما إذا كان أحد أعضاء السبام المعروفين. سيتم احتساب كل إشارة تحذير مولدة من قبل هذا المستخدم. وتشمل الإشارات اسم المستخدم والبريد الإلكتروني وعنوان IP.]]></phrase>
-  <phrase title="stopforumspam_frequencycutoff_label" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[فقط عد الإشارات المسجلة مالا يقل عن هذه المرات المتعددة]]></phrase>
+  <phrase title="stopforumspam_frequencycutoff_explain" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[لك ان تختار فقط حساب عدد الضغطات بالرجوع الى قاعدة بيانات السبام التي تم التبليغ عنها لعدد من المرات المحددة مسبقاً هنا.]]></phrase>
+  <phrase title="stopforumspam_frequencycutoff_label" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[فقط عد العلامات المسجلة مالا يقل عن هذه المرات]]></phrase>
   <phrase title="stopforumspam_lastseencutoff_explain" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[من أجل تجنب إيجابيات مزيفة، يمكنك اختيار فقط عدد ضربات قاعدة بيانات السبام و التي سبق تسجيلها في فترة زمنية محدودة.]]></phrase>
   <phrase title="stopforumspam_lastseencutoff_label" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[فقط عد العلامات التي سجلت خلال آخر X يوم فقط]]></phrase>
   <phrase title="stopforumspam_moderate_registration_threshold" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[إدارة التسجيلات حين اكتشاف إشارات تحذيرية من هذا التسجيل]]></phrase>
@@ -4856,7 +4861,8 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="this_member_does_not_have_any_content" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[لا يملك هذا العضو أي محتوى.]]></phrase>
   <phrase title="this_member_has_not_been_warned" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[لم يتم انذار هذا العضو.]]></phrase>
   <phrase title="this_member_matches_email_address_associated_with_your_external_account" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[هذا العضو يطابق عنوان البريد الإلكتروني المقترن بحسابك الخارجي.]]></phrase>
-  <phrase title="this_members_information_not_currently_editable" addon_id="XenForo" version_id="1040470" version_string="1.4.4"><![CDATA[معلومات الأعضاء هذه غير قابل للتحرير حاليا.]]></phrase>
+  <phrase title="this_member_viewing_invalid_no_permission_page" addon_id="XenForo" version_id="1050270" version_string="1.5.2"><![CDATA[هذا العضو يشاهد صفحة غير صالحة أو صفحة ليس لديه تصريح بمشاهدتها.]]></phrase>
+  <phrase title="this_members_information_not_currently_editable" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[معلومات الأعضاء هذه غير قابل للتحرير حاليا.]]></phrase>
   <phrase title="this_message_by_x_has_been_removed_from_view" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[هذه المشاركة بواسطة {name} قد تم حذفها حذف بسيط]]></phrase>
   <phrase title="this_message_has_been_removed_from_public_view" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[هذه المشاركة قد تم حذفها جزئياً]]></phrase>
   <phrase title="this_message_is_awaiting_moderator_approval_and_is_invisible_to_normal" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[هذه المشاركة بإنتظار موافقة إدارة المنتدى، وهي غير ظاهرة للزوار و الأعضاء العاديين.]]></phrase>
@@ -4991,16 +4997,16 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="tweet" addon_id="XenForo" version_id="1040051" version_string="1.4.0 Release Candidate 1"><![CDATA[غرد]]></phrase>
   <phrase title="twitter_integration" addon_id="XenForo" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[دمج تويتر]]></phrase>
   <phrase title="twitter_returned_following_error_x" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[تويتر قام بإرجاع الخطأ التالي: {error}.]]></phrase>
-  <phrase title="two_step_backup_body_html" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[{username}،<br />
+  <phrase title="two_step_backup_body_html" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[{username}،<br />
 <br />
 قمت مؤخرا بتسجيل الدخول إلى الحساب الخاص بك في  {board} وإكمال عملية التحقق بخطوتين عبر رمز النسخ الاحتياطي. يجب استخدام رمز النسخ احتياطي فقط عند عدم تمكنك من الوصول إلى طرق التحقق الأخرى.<br />
 <br />
-طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا كنت لم تقم بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.]]></phrase>
-  <phrase title="two_step_backup_body_text" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[{username}،
+طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا لم تكن أنت من قام بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.]]></phrase>
+  <phrase title="two_step_backup_body_text" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[{username}،
 
 قمت مؤخرا بتسجيل الدخول إلى الحساب الخاص بك في  {board} وإكمال عملية التحقق بخطوتين عبر رمز النسخ الاحتياطي. يجب استخدام رمز النسخ احتياطي فقط عند عدم تمكنك من الوصول إلى طرق التحقق الأخرى.
 
-طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا كنت لم تقم بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.
+طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا لم تكن أنت من قام بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.
 
 شكراً.
 {board}
@@ -5010,10 +5016,10 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="two_step_email_body_html1" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[{username}،<br />
 <br />
 لإكمال تسجيل الدخول إلى الحساب الخاص بك (أو لاستكمال إعداد التحقق بخطوتين) في {board}، يجب عليك إدخال الكود التالي:]]></phrase>
-  <phrase title="two_step_email_body_html2" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[هذا الرمز صالح لمدة 15 دقيقة.<br />
+  <phrase title="two_step_email_body_html2" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[هذا الرمز صالح لمدة 15 دقيقة.<br />
 <br />
-طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا كنت لم تقم بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.]]></phrase>
-  <phrase title="two_step_email_body_text" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[{username}،
+طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا لم تكن أنت من قام بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.]]></phrase>
+  <phrase title="two_step_email_body_text" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[{username}،
 
 لإكمال تسجيل الدخول إلى الحساب الخاص بك (أو لاستكمال إعداد التحقق بخطوتين) في {board}، يجب عليك إدخال الرمز التالي:
 
@@ -5021,7 +5027,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
 
 هذا الرمز صالح لمدة 15 دقيقة.
 
-طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا كنت لم تقم بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.
+طلب تسجيل الدخول هذا كان عن طريق الآي بي {ip}. إذا لم تكن أنت من قام بطلب الدخول هذا، يجب عليك تغيير كلمة المرور الخاصة بك على وجه السرعة.
 
 شكراً.
 {board}
@@ -5468,6 +5474,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="warn" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[مخالفة]]></phrase>
   <phrase title="warn_member" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[تحذير عضو]]></phrase>
   <phrase title="warning" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[تحذير]]></phrase>
+  <phrase title="warning_action_applied_crossing_threshold" addon_id="XenForo" version_id="1050270" version_string="1.5.2"><![CDATA[لن يتم تطبيق هذا الإجراء التحذيري عندما يتعدى المستخدم عتبة النقاط المحددة هنا. لذا فان  المستخدمين بهذا العدد من النقاط ا أو اكثر لن يطبق عليهم هذا الإجراء حتى ينزل مجموع نقاطهم التحذيرية إلى ما دون هذه العتبة ثم يتعداه مرة أخرى.]]></phrase>
   <phrase title="warning_actions" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[إجراءات الإنذار]]></phrase>
   <phrase title="warning_ban_reason" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[مخالفة القوانين]]></phrase>
   <phrase title="warning_for_x" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[انذارات {name}]]></phrase>
@@ -5804,8 +5811,8 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="you_may_only_follow_x_people" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[تستطيع متابعة {count} أشخاص فقط.]]></phrase>
   <phrase title="you_may_only_invite_x_members_to_join_this_conversation" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[تستطيع فقط ان تدعو {count} عضو  لهذه الرسالة]]></phrase>
   <phrase title="you_may_select_up_to_x_choices" addon_id="XenForo" version_id="1040031" version_string="1.4.0 Beta 1"><![CDATA[يمكنك اختيار ما يصل إلى {max} من الإختيارات.]]></phrase>
-  <phrase title="you_may_use_bb_code" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[يمكنك إستخدام  BB code]]></phrase>
-  <phrase title="you_may_use_html" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[يمكنك إستخدام HTML]]></phrase>
+  <phrase title="you_may_use_bb_code" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[يمكنك إستخدام  BB code.]]></phrase>
+  <phrase title="you_may_use_html" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[يمكنك إستخدام HTML.]]></phrase>
   <phrase title="you_may_use_placeholders_to_dynamically_insert_warning" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[يمكنك استخدام عناصر الإستبدال التالية: {title}، {content} و {url} لإدراج معلومات المحتوى بشكل حيوي ( الموضوع، العنوان و الرابط )، {name} لإدراج إسم العضو المتلقي للإنذار و {staff} لإدراج إسم المشرف الذي أعطى الإنذار. يمكنك أيضا استخدام أكواد BB code.]]></phrase>
   <phrase title="you_may_use_star_as_wildcard_and_id_to_point_to_media_id" addon_id="XenForo" version_id="1050032" version_string="1.5.0 Beta 2"><![CDATA[يمكنك استخدام * كحرف بدل، و <span dir="ltr">{$id}</span> للإشارة إلى معرف الميديا. سيتم بعد ذلك الرجوع إلى هذا المعرف في الكود المضمن. ضع كل رابط URL في سطر منفصل.]]></phrase>
   <phrase title="you_may_use_star_to_represent_wildcards_automatically_added" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[يمكنك استخدام * لتمثيل الأحرف البديلة. إذا كنت لا تستخدم أي من الأحرف البديلة، سوف تضاف بشكل تلقائي عند الحاجة.]]></phrase>
