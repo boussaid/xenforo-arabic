@@ -5,13 +5,13 @@
   <phrase title="1_more_message" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[عرض جميع الرسائل]]></phrase>
   <phrase title="1_vote" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[1 تصويت]]></phrase>
   <phrase title="1_week_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ أسبوع]]></phrase>
-  <phrase title="1_year" addon_id="XenForo" version_id="1040031" version_string="1.4.0 Beta 1"><![CDATA[العام 1]]></phrase>
-  <phrase title="1_year_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ سنة مضت]]></phrase>
+  <phrase title="1_year" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[1 سنة]]></phrase>
+  <phrase title="1_year_ago" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[منذ سنة مضت]]></phrase>
   <phrase title="2_weeks_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ أسبوعين]]></phrase>
-  <phrase title="2_years_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ سنتين]]></phrase>
-  <phrase title="3_months_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ ثلاث شهور]]></phrase>
-  <phrase title="6_months_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ ست شهور]]></phrase>
-  <phrase title="9_months_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ تسع شهور]]></phrase>
+  <phrase title="2_years_ago" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[منذ سنتين]]></phrase>
+  <phrase title="3_months_ago" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[منذ ثلاثة شهور]]></phrase>
+  <phrase title="6_months_ago" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[منذ ستة شهور]]></phrase>
+  <phrase title="9_months_ago" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[منذ تسعة شهور]]></phrase>
   <phrase title="a_moment_ago" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[منذ لحظات]]></phrase>
   <phrase title="a_z_0_9_and_only" addon_id="XenForo" version_id="1040051" version_string="1.4.0 Release Candidate 1"><![CDATA[فقط A-Z، 0-9، و _ ]]></phrase>
   <phrase title="a_z_0_9_and_underscore_only" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حروف كبيره وصغيره و أرقام و _ فقط ]]></phrase>
@@ -22,16 +22,16 @@
   <phrase title="accepted_file_types" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[أنواع الملفات المسموح بها]]></phrase>
   <phrase title="account_confirmation_ip" addon_id="XenForo" version_id="1040370" version_string="1.4.3"><![CDATA[آي بي تأكيد الحساب]]></phrase>
   <phrase title="account_upgrade" addon_id="XenForo" version_id="1040052" version_string="1.4.0 Release Candidate 2"><![CDATA[ترقية الحساب]]></phrase>
-  <phrase title="account_upgrade_purchased" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لشراء ترقية الحساب]]></phrase>
-  <phrase title="account_upgrades" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ترقية الحساب]]></phrase>
+  <phrase title="account_upgrade_purchased" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[تم شراء ترقية الحساب]]></phrase>
+  <phrase title="account_upgrades" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[ترقيات الحساب]]></phrase>
   <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XenForo" version_id="1040031" version_string="1.4.0 Beta 1"><![CDATA[لا يمكن شراء ترقيات الحساب عندما يكون الحساب الخاص بك غير مفعل.]]></phrase>
   <phrase title="achievements" addon_id="XenForo" version_id="1050670" version_string="1.5.6"><![CDATA[الإنجازات]]></phrase>
-  <phrase title="action" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[الإجراء]]></phrase>
-  <phrase title="action_available_via_post_only" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[هذا الإجراء متاح فقط عبر الأسلوب POST. يرجى الضغط على زر العودة والمحاولة مرة أخرى.]]></phrase>
+  <phrase title="action" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[الإجراء]]></phrase>
+  <phrase title="action_available_via_post_only" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[هذا الإجراء متاح عبر POST فقط. يرجى الضغط على زر العودة والمحاولة مرة أخرى.]]></phrase>
   <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XenForo" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[هذه الخطوة لن تكتمل لأنك لم تعد مسجلا دخولك.]]></phrase>
   <phrase title="action_to_take" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[الإجراء المتخذ]]></phrase>
-  <phrase title="actions" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[عمليات]]></phrase>
-  <phrase title="active_reports" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[التبليغات النشطة]]></phrase>
+  <phrase title="actions" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[الإجراءات]]></phrase>
+  <phrase title="active_reports" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[التقارير النشطة]]></phrase>
   <phrase title="active_user_upgrades" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[أحدث ترقيات الأعضاء]]></phrase>
   <phrase title="active_users" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[الأعضاء النشطين]]></phrase>
   <phrase title="activity_display" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عرض النشاط]]></phrase>
@@ -68,7 +68,7 @@
   <phrase title="add_user_to_user_groups" addon_id="XenForo" version_id="1040270" version_string="1.4.2"><![CDATA[أضف العضو إلى مجموعات العضو]]></phrase>
   <phrase title="added_to_selected_groups_while_above_points_threshold" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[ إضافة العضو إلى المجموعات المحددة عند بلوغ النقاط المحددة أعلاه أو تجاوزها]]></phrase>
   <phrase title="additional_contact" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[طرق الإتصال الإضافية]]></phrase>
-  <phrase title="additional_user_groups" addon_id="XenForo" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[إضافة لمجموعات العضو]]></phrase>
+  <phrase title="additional_user_groups" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[مجموعات العضو الإضافية]]></phrase>
   <phrase title="addon_is_active" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[الإضافة مفعلة]]></phrase>
   <phrase title="adjust_color_hues_for_entire_palette" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ضبط الألوان داخل اللوحة كاملة]]></phrase>
   <phrase title="adjust_color_hues_for_this_group" addon_id="XenForo" version_id="1030470" version_string="1.3.4"><![CDATA[ضبط شكل اللون لهذه المجموعة.]]></phrase>
@@ -99,7 +99,7 @@
   <phrase title="admin_navigation_attachmentBrowser" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[إستعراض المرفقات]]></phrase>
   <phrase title="admin_navigation_attachmentOptions" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[خيارات المرفقات]]></phrase>
   <phrase title="admin_navigation_attachments" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[المرفقات]]></phrase>
-  <phrase title="admin_navigation_bannedEmails" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[الإيميلات الممنوعة]]></phrase>
+  <phrase title="admin_navigation_bannedEmails" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[الإيميلات المحظورة]]></phrase>
   <phrase title="admin_navigation_bannedIps" addon_id="XenForo" version_id="1030070" version_string="1.3.0"><![CDATA[عناوين IP محظورة]]></phrase>
   <phrase title="admin_navigation_bannedUsers" addon_id="XenForo" version_id="1010570" version_string="1.1.5"><![CDATA[أعضاء محظورين]]></phrase>
   <phrase title="admin_navigation_banning" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تأديب العضو]]></phrase>
@@ -288,7 +288,7 @@
   <phrase title="all_permissions_within_this_group_will_be_deleted_as_well" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[سيتم حذف كافة التراخيص ضمن هذه المجموعة كذلك.]]></phrase>
   <phrase title="all_posts_from_other_threads_will_be_merged_into_this_thread" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[سيتم دمج جميع المشاركات من المواضيع الأخرى في هذا الموضوع]]></phrase>
   <phrase title="all_required_css_templates_must_end_in_" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[كافة قوالب الـ CSS المطلوبة يجب أن تنتهي بـ "css.".]]></phrase>
-  <phrase title="all_template_unit_tags_must_specify_label" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[يجب تحديد تسمية وحدة الوسوم في جميع القوالب]]></phrase>
+  <phrase title="all_template_unit_tags_must_specify_label" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[يجب تخصيص تسمية label لكافة وسوم القالب *unit.]]></phrase>
   <phrase title="all_templates_saved_successfully" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[تم حفظ القالب بنجاح .]]></phrase>
   <phrase title="all_threads_in_destination_forum" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[جميع المواضيع المحددة موجودة مسبقاً بهذا القسم، يرجى تحديد قسم آخر]]></phrase>
   <phrase title="all_time" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[كل الوقت]]></phrase>
@@ -429,7 +429,7 @@
   <phrase title="banned" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[محظور]]></phrase>
   <phrase title="banned_by" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حظر بواسطة]]></phrase>
   <phrase title="banned_email_addresses" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عناوين البريد الالكتروني المحظوره]]></phrase>
-  <phrase title="banned_emails" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[الإيميلات الممنوعة]]></phrase>
+  <phrase title="banned_emails" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[الإيميلات المحظورة]]></phrase>
   <phrase title="banned_for_period" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[حظر لفترة]]></phrase>
   <phrase title="banned_for_time_period" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[حظر لوقت محدد]]></phrase>
   <phrase title="banned_ip_addresses" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[عناوين الآي بي الممنوعة]]></phrase>
@@ -1867,6 +1867,7 @@
   <phrase title="keywords" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[كلمة البحث]]></phrase>
   <phrase title="language" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[اللغة]]></phrase>
   <phrase title="language_af_ZA" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الأفريقية]]></phrase>
+  <phrase title="language_am_ET" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[الأمهرية]]></phrase>
   <phrase title="language_ar_AR" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[العربية]]></phrase>
   <phrase title="language_ay_BO" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[أيمارا]]></phrase>
   <phrase title="language_az_AZ" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[اذربيجان]]></phrase>
@@ -1878,6 +1879,7 @@
   <phrase title="language_chooser" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إختيار اللغة]]></phrase>
   <phrase title="language_ck_US" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الشيروكي]]></phrase>
   <phrase title="language_cs_CZ" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[تشيكي]]></phrase>
+  <phrase title="language_cx_PH" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[السيبيونو]]></phrase>
   <phrase title="language_cy_GB" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[ويلزي]]></phrase>
   <phrase title="language_da_DK" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[دانماركي]]></phrase>
   <phrase title="language_de_DE" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الألمانية]]></phrase>
@@ -1894,6 +1896,7 @@
   <phrase title="language_et_EE" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الأستونية]]></phrase>
   <phrase title="language_eu_ES" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الباسكي]]></phrase>
   <phrase title="language_fa_IR" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الفارسية]]></phrase>
+  <phrase title="language_ff_NG" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[الفلة]]></phrase>
   <phrase title="language_fi_FI" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[فنلندية]]></phrase>
   <phrase title="language_fo_FO" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[جزر فارو]]></phrase>
   <phrase title="language_fr_CA" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الفرنسية (كندا)]]></phrase>
@@ -1901,12 +1904,15 @@
   <phrase title="language_ga_IE" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[إيرلندي]]></phrase>
   <phrase title="language_gl_ES" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الجاليكية]]></phrase>
   <phrase title="language_gu_IN" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الغوجاراتية]]></phrase>
+  <phrase title="language_ha_NG" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[الهوسا]]></phrase>
   <phrase title="language_he_IL" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[العبرية]]></phrase>
   <phrase title="language_hi_IN" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[هندي]]></phrase>
   <phrase title="language_hr_HR" addon_id="XenForo" version_id="1040052" version_string="1.4.0 Release Candidate 2"><![CDATA[كرواتيا]]></phrase>
+  <phrase title="language_ht_HT" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[الكريولية الهايتية]]></phrase>
   <phrase title="language_hu_HU" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[هنغاري]]></phrase>
   <phrase title="language_hy_AM" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الأرميني]]></phrase>
   <phrase title="language_id_ID" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الأندونيسية]]></phrase>
+  <phrase title="language_ig_NG" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[الإيبو]]></phrase>
   <phrase title="language_is_IS" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[أيسلندي]]></phrase>
   <phrase title="language_it_IT" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الإيطالي]]></phrase>
   <phrase title="language_ja_JP" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[اليابانية]]></phrase>
@@ -1919,6 +1925,7 @@
   <phrase title="language_ku_TR" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[كردي]]></phrase>
   <phrase title="language_la_VA" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[لاتينية]]></phrase>
   <phrase title="language_li_NL" addon_id="XenForo" version_id="1040770" version_string="1.4.7"><![CDATA[الليمبرجيشية]]></phrase>
+  <phrase title="language_lo_LA" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[لاو]]></phrase>
   <phrase title="language_lt_LT" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[لتواني]]></phrase>
   <phrase title="language_lv_LV" addon_id="XenForo" version_id="1040770" version_string="1.4.7"><![CDATA[اللاتفية]]></phrase>
   <phrase title="language_mg_MG" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[مدغشقر]]></phrase>
@@ -1928,10 +1935,12 @@
   <phrase title="language_mr_IN" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[المهاراتية]]></phrase>
   <phrase title="language_ms_MY" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[لغة الملايو]]></phrase>
   <phrase title="language_mt_MT" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[المالطية]]></phrase>
+  <phrase title="language_my_MM" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[البورمية]]></phrase>
   <phrase title="language_nb_NO" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[النرويجية (بوكمال)]]></phrase>
   <phrase title="language_ne_NP" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[النيبالية]]></phrase>
   <phrase title="language_nl_NL" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[هولندي]]></phrase>
   <phrase title="language_nn_NO" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[النرويجية (الحديثة)]]></phrase>
+  <phrase title="language_or_IN" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[الأوريا]]></phrase>
   <phrase title="language_pa_IN" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[البنجابية]]></phrase>
   <phrase title="language_pl_PL" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[بولندي]]></phrase>
   <phrase title="language_ps_AF" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الباشتو]]></phrase>
@@ -1964,6 +1973,7 @@
   <phrase title="language_vi_VN" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الفيتنامية]]></phrase>
   <phrase title="language_xh_ZA" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[زوسا]]></phrase>
   <phrase title="language_yi_DE" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[اليديشية ( الالمانيه )]]></phrase>
+  <phrase title="language_yo_NG" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[اليوروبا]]></phrase>
   <phrase title="language_zh_CN" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الصينية (المبسطة)]]></phrase>
   <phrase title="language_zh_HK" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الصينية (التقليدية، هونغ كونغ)]]></phrase>
   <phrase title="language_zh_TW" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[الصينية (التقليدية، تايوان)]]></phrase>
@@ -2540,7 +2550,7 @@
   <phrase title="option_akismetKey" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[مفتاح Akismet API]]></phrase>
   <phrase title="option_akismetKey_explain" addon_id="XenForo" version_id="1050070" version_string="1.5.0"><![CDATA[<a href="https://akismet.com/signup/" target="_blank">Akismet</a> هي خدمة تقوم بمسح التعليقات وتحدد ما إذا كانت سبام. إذا قمت بإدخال مفتاح API لـ Akismet هنا، سيتم فحص رسائل المستخدم و التحقق منها إن كانت رسائل سبام غير مرغوب فيها. يمكنك التسجيل للحصول على مفتاح API عبر موقعهم. إذا تم تحديد أي رسالة من قبل Akismet كغير مرغوب فيها، فلا بد أن تتم الموافقة عليها يدويا قبل أن يتم عرضها للعامة.]]></phrase>
   <phrase title="option_alertExpiryDays" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[عدد الأيام للإحتفاظ بالتنبيهات التي تمت مشاهدتها]]></phrase>
-  <phrase title="option_alertExpiryDays_explain" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[تنبيهات الأعضاء سوف تختفي من صفحة قائمة التنبيهات بعد عدد هذه الأيام من رؤيتها . التنبيهات التي لم يشاهدها العضو لا تنتهي.]]></phrase>
+  <phrase title="option_alertExpiryDays_explain" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[تنبيهات الأعضاء سوف تختفي من صفحة قائمة التنبيهات بعد عدد هذه الأيام من رؤيتها . التنبيهات التي لم يشاهدها العضو تنتهي تلقائيا بعد 30 يوما.]]></phrase>
   <phrase title="option_alertsPerPage" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[التنبيهات بكل صفحة]]></phrase>
   <phrase title="option_alertsPerPage_explain" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[حدد عدد التنبيهات التي ستعرض بكل صفحة في الصفحة الخاصة بعرض كافة التبيهات للعضو]]></phrase>
   <phrase title="option_alertsPopupExpiryHours" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[عدد الساعات للإحتفاظ بالتنبيهات التي تمت مشاهدتها بالقائمة المنسدلة]]></phrase>
@@ -3046,7 +3056,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="payment" addon_id="XenForo" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[الدفع]]></phrase>
   <phrase title="payment_automatically_aken_every_time_period_to_keep_active" addon_id="XenForo" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[سيتم الدفع اوتوماتيكيا مع كل دورة دفع للحفاظ على الترقيه فعالة.]]></phrase>
   <phrase title="payment_gateway_setup" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[قائمة الدفع]]></phrase>
-  <phrase title="paypal_tls_12_requirements_missing_desc" addon_id="XenForo" version_id="1050770" version_string="1.5.7"><![CDATA[ابتداءاً من يوم 18 جوان (يونيو) 2016، باي بال سوف يتطلب من كافة الطلبات استخدام TLS 1.2 والخادم الخاص بك ليس لديه مكتبات SSL المطلوبة لدعم هذا النظام. وبدون دعم TLS 1.2، ترقيات المستخدم لن يتم معالجتها بشكل صحيح. الرجاء الاتصال بمسؤول نظام السيرفرلديك للتوجيه و الإرشاد.]]></phrase>
+  <phrase title="paypal_tls_12_requirements_missing_desc" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[ابتداءاً من جوان (يونيو) 2017، باي بال سوف يطلب من كافة الطلبات استخدام TLS 1.2 و إعدادات PHP الخاصة بك ليس لديها مكتبات SSL المطلوبة لدعم هذا النظام. وبدون دعم TLS 1.2، ترقيات المستخدم لن يتم معالجتها بشكل صحيح بعد هذا التاريخ. الرجاء الاتصال بمسؤول نظام السيرفرلديك للتوجيه و الإرشاد.]]></phrase>
   <phrase title="people_may_reply_to_this_thread" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[سيكون بمقدور الأعضاء الرد على هذا الموضوع]]></phrase>
   <phrase title="people_who_may" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[تصاريح الأعضاء !]]></phrase>
   <phrase title="people_x_follows" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[أشخاص يتابعون {name}]]></phrase>
@@ -4170,7 +4180,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="style_properties" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[خصائص الستايل]]></phrase>
   <phrase title="style_properties_in_style_can_not_be_modified" addon_id="XenForo" version_id="1040051" version_string="1.4.0 Release Candidate 1"><![CDATA[لا يمكن تعديل خصائص الستايل في هذا الستايل. الرجاء المحاولة مع آخر.]]></phrase>
   <phrase title="style_property_ajaxProgress_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This styles the element that appears when AJAX operations are in progress.]]></phrase>
-  <phrase title="style_property_ajaxProgress_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[AJAX Progress Indicator]]></phrase>
+  <phrase title="style_property_ajaxProgress_master" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[مؤشر تقدم الاجاكس]]></phrase>
   <phrase title="style_property_alertBalloonArrow_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Alert Balloon Arrow]]></phrase>
   <phrase title="style_property_alertBalloon_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Alert Balloon]]></phrase>
   <phrase title="style_property_animationSpeedMultiplier_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[If you enable animations, you can adjust the speed using the multiplier. 1: Normal speed, 0.5: double speed, 2: half speed etc.]]></phrase>
@@ -4260,7 +4270,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="style_property_discussionListMiniMe_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Mini-Me Container]]></phrase>
   <phrase title="style_property_discussionListOptionsHandleLink_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Options Panel Handle Link]]></phrase>
   <phrase title="style_property_discussionListOptionsHandle_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Options Panel Handle]]></phrase>
-  <phrase title="style_property_discussionListOptions_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Options Panel Form]]></phrase>
+  <phrase title="style_property_discussionListOptions_master" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[نموذج لوحة الخيارات]]></phrase>
   <phrase title="style_property_discussionListPageNavHidden_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This option allows the multi-page navigator shown on discussion list items with multiple pages to remain hidden until the item is moused-over.]]></phrase>
   <phrase title="style_property_discussionListPageNavHidden_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Hide item page navigator unless hovered]]></phrase>
   <phrase title="style_property_discussionListPrefix_master" addon_id="XenForo" version_id="1040070" version_string="1.4.0"><![CDATA[عنوان البادئة]]></phrase>
@@ -5707,13 +5717,14 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="x_for_y_months" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[{cost} لـ {length} أشهر]]></phrase>
   <phrase title="x_for_y_years" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{cost} لكل {length}  سنه
 ]]></phrase>
-  <phrase title="x_gb" addon_id="XenForo" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{size} GB]]></phrase>
+  <phrase title="x_gb" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[{size} جيغابايت]]></phrase>
   <phrase title="x_has_not_been_awarded_any_trophies_yet" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} لم يحصل على أي جائزة حتى الآن]]></phrase>
   <phrase title="x_has_not_posted_any_content_recently" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} لم ينشر أي مشاركات مؤخرا.]]></phrase>
   <phrase title="x_hours" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{count} ساعات]]></phrase>
   <phrase title="x_is_a_y_at_z" addon_id="XenForo" version_id="1040270" version_string="1.4.2"><![CDATA[{name} هو {title} في {location}]]></phrase>
   <phrase title="x_is_being_followed_by_y_members" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} يتابعه {count} عضو.]]></phrase>
   <phrase title="x_is_following_y_members" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{name} يتابع {count} عضو.]]></phrase>
+  <phrase title="x_is_member_of_y" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[{name} هو عضو في {title}.]]></phrase>
   <phrase title="x_kb" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[{size} ك. ب]]></phrase>
   <phrase title="x_liked_your_comment_on_your_profile_post" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[أعجب {name} بـ <a {post_attributes}>تعليقك</a> على رسالتك الشخصية.]]></phrase>
   <phrase title="x_liked_your_comment_on_ys_profile_post" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[أعجب {name} بـ <a {post_attributes}>تعليقك</a> على مشاركة حائط {poster}.]]></phrase>
@@ -5749,7 +5760,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="x_tagged_you_in_post_in_thread_y" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[أشار إليك {name} بمشاركة في الموضوع {title}.]]></phrase>
   <phrase title="x_tagged_you_message_on_ys_profile" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[قام {name} بذكر إسمك في <a {post_attributes}>رسالة</a> بالملف الشخصي لـ {profile}.]]></phrase>
   <phrase title="x_tags_only_used_where_full_statements_allowed" addon_id="XenForo" version_id="0" version_string=""><![CDATA[&lt;xf:{tag}&gt; tags can only be used where full statements are allowed.]]></phrase>
-  <phrase title="x_tb" addon_id="XenForo" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{size} TB]]></phrase>
+  <phrase title="x_tb" addon_id="XenForo" version_id="1050970" version_string="1.5.9"><![CDATA[{size} تيرابايت]]></phrase>
   <phrase title="x_threads_will_be_deleted_when_these_posts_deleted" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[{count} موضوع سيحذف مما سيؤدي إلى حذف كافة المشاركات التابعة له.]]></phrase>
   <phrase title="x_total_votes" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[مجموع الأصوات {count}.]]></phrase>
   <phrase title="x_votes" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{count} صوت]]></phrase>
@@ -5823,6 +5834,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="you_may_not_upload_more_files_with_message_allowed_x" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[لا يمكنك رفع المزيد من الملفات بهذه المشاركة. يمكنك إرفاق {total} ملف فقط.]]></phrase>
   <phrase title="you_may_only_apply_x_tags_to_this_content" addon_id="XenForo" version_id="1050031" version_string="1.5.0 Beta 1"><![CDATA[يمكنك تطبيق {count} وسوم فقط على هذا المحتوى.]]></phrase>
   <phrase title="you_may_only_follow_x_people" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[تستطيع متابعة {count} أشخاص فقط.]]></phrase>
+  <phrase title="you_may_only_ignore_x_people" addon_id="XenForo" version_id="1051070" version_string="1.5.10"><![CDATA[تستطيع تجاهل ما مجموعه {count} فقط من الأشخاص.]]></phrase>
   <phrase title="you_may_only_invite_x_members_to_join_this_conversation" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[تستطيع فقط ان تدعو {count} عضو  لهذه الرسالة]]></phrase>
   <phrase title="you_may_select_up_to_x_choices" addon_id="XenForo" version_id="1040031" version_string="1.4.0 Beta 1"><![CDATA[يمكنك اختيار ما يصل إلى {max} من الإختيارات.]]></phrase>
   <phrase title="you_may_use_bb_code" addon_id="XenForo" version_id="1050170" version_string="1.5.1"><![CDATA[يمكنك إستخدام  BB code.]]></phrase>
